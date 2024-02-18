@@ -61,13 +61,7 @@ const styles = StyleSheet.create({
     bottom:-28,
     left: 95,
   },
-  buttonContainer: {
-    position: 'absolute',
-    bottom: 20,
-    width:'80%',
-    borderRadius:7,
-   
-  },
+  
 });
 
 export default App;
